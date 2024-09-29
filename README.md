@@ -5,7 +5,7 @@ Para ejecutar el projecto tienes que completar el fichero con la base de datos c
 I en backend hacer node app.js
 I en frontend hacer npm run build
 
-
+Tambien tengo un fichero generador.py que use para generar millones de datos en mis clases
 
 
 
